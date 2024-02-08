@@ -36,7 +36,6 @@
     bottom: 0;
     right: 0;
     width: 250px;
-    /* height: calc(100vh - 0px); */
     height: 100vh;
     justify-content: center;
     transform: translate(100%);
